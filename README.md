@@ -1,6 +1,6 @@
 # CE-GZSL
 
-Code for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Object Recognition.
+Codes for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2103.16173)].
 
 
 
@@ -9,7 +9,7 @@ Code for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Ob
 ## Contrastive Embedding for Generalized Zero-Shot Learning
 
 ### Dependencies
-This code requires the following:
+This codes requires the following:
 - Python 3.6
 - Pytorch 1.2.0
 - scikit-learn

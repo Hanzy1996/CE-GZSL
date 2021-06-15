@@ -1,6 +1,6 @@
 # CE-GZSL
 
-Codes for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Learning [[arxiv](https://arxiv.org/abs/2103.16173)].
+Codes for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Learning [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Contrastive_Embedding_for_Generalized_Zero-Shot_Learning_CVPR_2021_paper.pdf)][[arxiv](https://arxiv.org/abs/2103.16173)].
 
 
 
@@ -50,3 +50,13 @@ python3.6 CE_GZSL.py --dataset CUB --class_embedding sent --syn_num 100 --batch_
 ### Citation
 
 If you find this useful, please cite:
+```
+@InProceedings{Han_2021_CVPR,
+    author    = {Han, Zongyan and Fu, Zhenyong and Chen, Shuo and Yang, Jian},
+    title     = {Contrastive Embedding for Generalized Zero-Shot Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {2371-2381}
+}
+```

@@ -2,6 +2,8 @@
 
 Codes for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Learning [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Contrastive_Embedding_for_Generalized_Zero-Shot_Learning_CVPR_2021_paper.pdf)][[arxiv](https://arxiv.org/abs/2103.16173)].
 
+Keras implementation [code](https://github.com/webcsm/ce-gzsl-keras). Much appreciation for @**[webcsm](https://github.com/webcsm)**'s efforts!
+
 
 
 ![generation_framework](./images/framework.jpg)
